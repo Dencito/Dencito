@@ -13,7 +13,7 @@
 - :nerd_face: In my free time, I continue to strengthen my knowledge in technologies and learn new ones.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://padilladenar.com/build/assets/Denar_Padilla_CV-B6EGds2x.pdf).
-- :boom: You can visit `NANUBELLA` [MY WEBSITE](https://padilladenar.com).
+- :boom: You can visit [MY PORTFOLIO](https://padilladenar.com).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
